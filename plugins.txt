@@ -1,0 +1,7 @@
+git
+workflow-aggregator
+docker-plugin
+blueocean
+pipeline-utility-steps
+ssh-slaves
+credentials
