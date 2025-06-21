@@ -2,11 +2,13 @@
 
 * Structure
 
-jenkins_docker_ENV/
-├── Dockerfile
-├── docker-compose.yml         #（可選）
-├── jenkins_home/              # Jenkins volume（自動產生）
-└── README.md                  # 使用說明（選配）
+```text
+    jenkins_docker_ENV/
+    ├── Dockerfile
+    ├── docker-compose.yml         #（可選）
+    ├── jenkins_home/              # Jenkins volume（自動產生）
+    └── README.md                  # 使用說明（選配）
+```
 
 1. Run Dockerfile:
 
